@@ -42,9 +42,6 @@ ul {
   color: #FFFFFF;
   background-color: #191F4D;
 }
-.square-link:hover span {
-  transform: translateX(5px);
-}
 
 .hamburger {
   display: none;
@@ -327,7 +324,6 @@ footer ul img {
 }
 #events ul li a:hover h3 {
   text-decoration: underline;
-  text-decoration-thickness: 1px;
 }
 #events ul li a .date,
 #events ul li a .location {
@@ -404,13 +400,13 @@ footer ul img {
   font-weight: 400;
   line-height: 38px;
   text-align: center;
-  background-color: #191F4D;
   color: #FFF;
 }
 #contact a:hover span {
   width: 50px;
   line-height: 48px;
   border-color: #191F4D;
+  background-color: #191F4D;
   transform: translateX(5px);
 }
 
@@ -431,9 +427,6 @@ footer img {
   width: 170px;
   object-fit: contain;
   object-position: center;
-}
-footer a:hover {
-  text-decoration: underline;
 }
 footer p {
   margin-top: -64px;
