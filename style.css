@@ -316,7 +316,6 @@ footer ul img {
   margin-top: 10px;
   font-size: 20px;
   font-weight: 700;
-  color: #000000;
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -329,7 +328,6 @@ footer ul img {
 #events ul li a .location {
   font-size: 14px;
   font-weight: 400;
-  color: #000000;
 }
 #events ul li a .date {
   margin-top: 18px;
@@ -432,7 +430,6 @@ footer p {
   margin-top: -64px;
   font-size: 10px;
   font-weight: 400;
-  color: #000000;
   text-align: right;
 }
 
