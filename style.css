@@ -457,7 +457,6 @@ footer p {
   }
   header > div {
     height: 50px;
-    padding: 0 15px;
   }
   header ul {
     display: none;
@@ -495,7 +494,6 @@ footer p {
   }
 
   #service, #features, #events {
-    padding: 120px 30px;
   }
   #events ul li a {
     flex-direction: column;
@@ -511,14 +509,12 @@ footer p {
   }
   #contact div {
     width: 100%;
-    padding: 50px 30px;
   }
   #contact div + div {
     border-left: initial;
     border-top: 1px solid #FFFFFF4D;
   }
   footer > div > div {
-    padding: 80px 0px;
     min-height: initial;
     gap: 60px;
   }
