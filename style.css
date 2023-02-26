@@ -500,9 +500,6 @@ footer p {
   #service, #features, #events {
     padding: 120px 30px;
   }
-  #service h2, #features h2, #events h2 {
-    font-size: 28px;
-  }
   #events ul li a {
     flex-direction: column;
   }
