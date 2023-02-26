@@ -250,7 +250,6 @@ footer ul img {
 
 #features ul {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 40px;
   margin-top: 64px;
@@ -520,12 +519,10 @@ footer p {
   }
   footer > div > div {
     padding: 80px 0px;
-    flex-wrap: wrap;
     min-height: initial;
     gap: 60px;
   }
   footer > div > div > div {
-    flex-wrap: wrap;
     align-items: end;
     margin-top: 0;
   }
