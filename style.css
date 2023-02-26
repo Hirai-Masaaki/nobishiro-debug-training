@@ -533,7 +533,6 @@ footer p {
   }
   footer ul {
     flex-direction: column;
-    gap: 25px;
   }
   footer ul + ul {
     flex-direction: column;
