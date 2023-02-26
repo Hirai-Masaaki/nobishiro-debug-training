@@ -334,7 +334,6 @@ footer ul img {
 }
 #events ul li a .date span,
 #events ul li a .location span {
-  margin-right: 10px;
   letter-spacing: 0.8em;
 }
 #events ul li a .date strong {
